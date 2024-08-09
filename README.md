@@ -22,10 +22,10 @@ Run the app in your terminal using the app.py script.
 
 Once the app starts you'll be prompted to provide an access token.
 
-![image1](https://photos.fife.usercontent.google.com/pw/AP1GczPyOXcP7PzZ9qL-EnQIsh2GZ_SZUzvcUCYVcCFvT9gixtPf_OmDFG9z=w1277-h300-s-no-gm?authuser=0)
+![image1](https://ibb.co/MSVXstr)
 
 Once you provide the access token, you'll be able to select a repository and a dataset to visualize.
 
-![image2](https://photos.fife.usercontent.google.com/pw/AP1GczNWJRPGBZTfs0cPuGgDg3_-ZI5OuMR65FCiuZ_nHH5HO0PPQ9lwqSb0=w1277-h231-s-no-gm?authuser=0)
+![image2](https://ibb.co/1ft2mYc)
  
-![image3](https://photos.fife.usercontent.google.com/pw/AP1GczPKG9KFfcs12OTX-PrTsbMzfOT9PhWRov2TnVD26crlUYp2f5ApAMZI=w1277-h339-s-no-gm?authuser=0)
+![image3](https://ibb.co/M5Zdz8R)
