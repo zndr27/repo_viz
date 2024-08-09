@@ -28,4 +28,4 @@ Once you provide the access token, you'll be able to select a repository and a d
 
 ![image2](https://ibb.co/1ft2mYc)
  
-![image3](https://ibb.co/M5Zdz8R)
+![image3]("https://ibb.co/M5Zdz8R")
