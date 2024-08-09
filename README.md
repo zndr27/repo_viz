@@ -12,7 +12,7 @@ DagsHub is a collaborative platform for data scientists and machine learning pra
 
 Our new tool, RepoViz, allows you to effortlessly visualize data stored in your DagsHub repositories. Login with an access token, and you’re ready to get started\!
 
-![][image1]
+![image][image1]
 
 ![][image2]
 
