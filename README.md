@@ -22,7 +22,7 @@ Run the app in your terminal using the app.py script.
 
 Once the app starts you'll be prompted to provide an access token.
 
-![image1](https://ibb.co/MSVXstr)
+![image1](https://i.ibb.co/kB8dxwj/image.png) <!--(https://ibb.co/MSVXstr)-->
 
 Once you provide the access token, you'll be able to select a repository and a dataset to visualize.
 
