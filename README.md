@@ -1,18 +1,10 @@
 # RepoViz
 
-## Background on DagsHub
+Automated exploratory data analysis for <a href="https://dagshub.com">DagsHub</a> repositories.
 
-DagsHub is a collaborative platform for data scientists and machine learning practitioners. It provides a comprehensive suite of tools for versioning, sharing, and collaborating on data and machine learning projects. While DagsHub excels in managing data and workflows, we saw an opportunity to enhance its visualization capabilities for exploratory data analysis.
-
-## Introducing RepoViz
-
-Our new tool, RepoViz, allows you to effortlessly visualize data stored in your DagsHub repositories. Login with an access token, and you’re ready to get started\!
-
-## Instalation
+## Installation
 
 Create a virtual environment and install the dependencies from the pyproject.toml file.
-
-The app uses D-Tale, SweetViz, and YData for exploratory data analysis.
 
 ## Run
 
@@ -20,7 +12,7 @@ Run the app in your terminal using the app.py script.
 
 ## Usage
 
-Once the app starts you'll be prompted to provide an access token.
+When the app starts you'll be prompted to provide an <a href="https://dagshub.com/user/settings/tokens">access token</a>.
 
 ![image1](https://i.ibb.co/kB8dxwj/image.png)
 
@@ -29,3 +21,5 @@ Once you provide the access token, you'll be able to select a repository and a d
 ![image2](https://i.ibb.co/tMTCJwR/image.png)
  
 ![image3](https://i.ibb.co/Z1G9QHh/image.png)
+
+The app uses <a href="https://github.com/man-group/dtale">D-Tale</a>, <a href="https://pypi.org/project/sweetviz/">Sweetviz</a>, and <a href="https://github.com/ydataai/ydata-profiling">YData Profiling</a> to generate the visualizations.
