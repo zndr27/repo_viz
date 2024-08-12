@@ -6,7 +6,7 @@ Automated exploratory data analysis for <a href="https://dagshub.com">DagsHub</a
 
 Create a virtual environment and install the dependencies from the pyproject.toml file.
 
-Then run "python -m install --upgrade dagshub" to ensure you have the latest version of the Dagshub CLI.
+Then run "python -m install --upgrade dagshub" to ensure you have the latest version of the Dagshub CLI, as certain package managers may install an older version.
 
 ## Run
 
