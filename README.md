@@ -4,15 +4,26 @@ Automated exploratory data analysis for <a href="https://dagshub.com">DagsHub</a
 
 ## Installation
 
-Create a virtual environment and install the dependencies from the pyproject.toml file.
+RepoViz supports Python 3.10 - 3.12.
 
-For example you can use pdm to create a virtual environment and install the dependencies:
+First, create a virtual environment and install the dependencies from the pyproject.toml file using your favorite package management tools.
 
+For example, you can use <a href="https://pdm-project.org/en/latest/">pdm</a> and <a href="https://github.com/pyenv/pyenv">pyenv</a> as follows:
+```
+cd path/to/repo-viz
 pyenv install 3.12.4
 pdm use 3.12.4
 pdm install
+```
 
-Then run "python -m pip install --upgrade dagshub" to ensure you have the latest version of the Dagshub client, as certain package managers may install an older version.
+Second, use pip to install the DagsHub client in the virtual environment. This is necessary due to a dependency version conflict with ydata-profiling.
+
+For example:
+```
+cd path/to/repo-viz 
+eval $(pdm venv activate)
+python -m pip install --upgrade dagshub
+```
 
 ## Run
 
