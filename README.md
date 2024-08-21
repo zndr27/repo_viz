@@ -32,7 +32,7 @@ First, start the D-Tale server in your terminal:
 python ./dtale_app.py
 ```
 
-Then, run the RepoViz server in your terminal:
+Then, start the RepoViz server in your terminal:
 ```
 python ./app.py
 ```
