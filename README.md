@@ -27,7 +27,17 @@ python -m pip install --upgrade dagshub
 
 ## Run
 
-Run the app in your terminal using the app.py script.
+First, start the D-Tale server in your terminal:
+```
+python ./dtale_app.py
+```
+
+Then, run the RepoViz server in your terminal:
+```
+python ./app.py
+```
+
+Finally, open your browser and navigate to `http://localhost:8051/`.
 
 ## Usage
 

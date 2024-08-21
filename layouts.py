@@ -264,6 +264,7 @@ main_layout = html.Div(
           "display": "none",
       },
     ),
+    html.Div(style={"height": "1vh"}),
     # Login in screen, username token
     dmc.Stack(
         [
