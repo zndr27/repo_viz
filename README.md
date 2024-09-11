@@ -45,7 +45,7 @@ When the app starts you'll be prompted to provide an <a href="https://dagshub.co
 
 ![image1](https://i.ibb.co/kB8dxwj/image.png)
 
-Once you provide the access token, you'll be able to select a repository and a dataset to visualize.
+Once you provide the access token, you'll be able to select a repository and a <a href="https://dagshub.com/docs/use_cases/data_engine/connect_datasource/">data source</a> to visualize.
 
 ![image2](https://i.ibb.co/tMTCJwR/image.png)
  
